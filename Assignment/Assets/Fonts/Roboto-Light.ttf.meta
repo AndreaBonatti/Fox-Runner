@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d9db95d9154219a479acced58547cd46
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Roboto Light
+  fontNames:
+  - Roboto Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5e775cc9e4dfee24f9bf0547b3fe6175, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
